@@ -18,6 +18,8 @@ export default function ProfileCard() {
               <h2 className="text-2xl font-semibold text-gray-800 mb-4 pb-2 border-b border-gray-300">Details Info</h2>
               
               <div className="space-y-4">
+
+
                 <div className="flex items-center">
                   <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center mr-4">
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -77,6 +79,9 @@ export default function ProfileCard() {
                     <p className="text-lg font-medium text-gray-800">B.SC in Computer Science and Engineering</p>
                   </div>
                 </div>
+
+
+                
               </div>
             </div>
             
